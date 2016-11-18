@@ -1,0 +1,12 @@
+.red-text{color:#f00;}
+
+.hpfsr-form{display: block;clear: both}
+.hpfsr-form legend{padding-top: 20px;}
+
+.attachment-title img{width:50px;height:auto;float: left;margin: 10px 10px 10px 0}
+
+.hpfsr-post-name span {font-weight: bold}
+.hpfsr-select-roles-option, #live-search{padding: 5px;background: #e1ffd3;border:1px solid #9be27a;width: auto;display: table;margin-bottom: 0;}
+.hpfsr-select-roles-option{float: right;border-bottom:0;}
+.hpfsr-list-roles {padding: 5px;background: #f5f5f5;border:1px solid #ccc;margin-bottom:25px;display: block;clear: both}
+.hpfsr-select-roles-option li, .hpfsr-list-roles li{display: inline;margin-right: 15px;}
